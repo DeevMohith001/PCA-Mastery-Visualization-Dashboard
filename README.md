@@ -1,6 +1,6 @@
 # 📊 PCA Visualization Dashboard
 
-![My Image](C:\Users\lenovo\Desktop\DHV Project\PCA Mastery Visualization Dashboard\assets\Screenshot 2025-11-17 181810.png)
+<img src="assets\Screenshot 2025-11-17 181810.png" width="400">
 
 
 A **TypeScript + React** dashboard to visualize **Principal Component Analysis (PCA)** on multiple datasets. Explore **2D/3D scatter plots**, **biplots**, **pairwise PC scatter matrices**, and **before/after PCA comparisons** interactively.
